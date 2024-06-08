@@ -10,10 +10,11 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 </div>
 
-<h5>Veja o site como ficou: <a href="https://lidialima.github.io/portfolio-responsivo/">Portfolio Lídia Lima </a></h5>
+<h5>✅ Veja o site como ficou: <a href="https://lidialima.github.io/portfolio-responsivo/">Portfolio Lídia Lima </a></h5>
 <br>
 
 ![capa](https://github.com/lidialima/portfolio-responsivo/assets/14956590/137f288a-c5a7-4684-863d-4e90e4f9da04)
 
-<h5> Veja como fica no celular</h5>
-[portfolio-no-celular.webm](https://github.com/lidialima/portfolio-responsivo/assets/14956590/e664b33c-957f-4b39-9f22-df8a00e7f795)
+<h5>✅ Veja como fica no celular</h5>
+
+[portfolio-no-celular.webm](https://github.com/lidialima/portfolio-responsivo/assets/14956590/8f6d314e-1002-4d07-906d-1c84efe2db21)
